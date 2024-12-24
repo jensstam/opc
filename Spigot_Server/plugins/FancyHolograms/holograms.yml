@@ -1,11 +1,440 @@
 version: 2 # DO NOT CHANGE
 holograms:
-  TimePlayedAllTime:
+  AdvancementsCompleted:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 130.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Advancements Completed'
+    - '<#55FFFF> #1 %ajlb_lb_Advancements_completedAmount_1_alltime_name% <#FFFFFF>-
+      %ajlb_lb_Advancements_completedAmount_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_Advancements_completedAmount_2_alltime_name% <#FFFFFF>-
+      %ajlb_lb_Advancements_completedAmount_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_Advancements_completedAmount_3_alltime_name% <#FFFFFF>-
+      %ajlb_lb_Advancements_completedAmount_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_Advancements_completedAmount_4_alltime_name% - %ajlb_lb_Advancements_completedAmount_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_Advancements_completedAmount_5_alltime_name% - %ajlb_lb_Advancements_completedAmount_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  AnimalsBred:
     type: TEXT
     location:
       world: MCwithFriends24
       x: 188.12335205078125
       y: 132.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Animals Bred'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_animals_bred_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_animals_bred_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_animals_bred_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_animals_bred_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_animals_bred_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_animals_bred_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_animals_bred_4_alltime_name% - %ajlb_lb_statistic_animals_bred_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_animals_bred_5_alltime_name% - %ajlb_lb_statistic_animals_bred_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  AviateOneCM:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 134.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Distance Flown (cm)'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_aviate_one_cm_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_aviate_one_cm_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_aviate_one_cm_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_aviate_one_cm_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_aviate_one_cm_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_aviate_one_cm_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_aviate_one_cm_4_alltime_name% - %ajlb_lb_statistic_aviate_one_cm_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_aviate_one_cm_5_alltime_name% - %ajlb_lb_statistic_aviate_one_cm_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  BlocksMined:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 136.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Blocks Mined'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_mine_block_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_mine_block_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_mine_block_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_mine_block_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_mine_block_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_mine_block_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_mine_block_4_alltime_name% - %ajlb_lb_statistic_mine_block_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_mine_block_5_alltime_name% - %ajlb_lb_statistic_mine_block_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  BlocksPlaced:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 138.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Blocks Placed'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_use_item_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_use_item_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_use_item_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_use_item_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_use_item_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_use_item_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_use_item_4_alltime_name% - %ajlb_lb_statistic_use_item_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_use_item_5_alltime_name% - %ajlb_lb_statistic_use_item_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  DeathNum:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 140.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 # of Deaths'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_deaths_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_deaths_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_deaths_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_deaths_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_deaths_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_deaths_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_deaths_4_alltime_name% - %ajlb_lb_statistic_deaths_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_deaths_5_alltime_name% - %ajlb_lb_statistic_deaths_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  FishCaught:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 142.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Fish Caught'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_fish_caught_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_fish_caught_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_fish_caught_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_fish_caught_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_fish_caught_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_fish_caught_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_fish_caught_4_alltime_name% - %ajlb_lb_statistic_fish_caught_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_fish_caught_5_alltime_name% - %ajlb_lb_statistic_fish_caught_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  ItemsCrafted:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 144.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Items Crafted'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_craft_item_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_craft_item_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_craft_item_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_craft_item_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_craft_item_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_craft_item_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_craft_item_4_alltime_name% - %ajlb_lb_statistic_craft_item_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_craft_item_5_alltime_name% - %ajlb_lb_statistic_craft_item_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  MobKills:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 146.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Mob Kills'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_mob_kills_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_mob_kills_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_mob_kills_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_mob_kills_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_mob_kills_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_mob_kills_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_mob_kills_4_alltime_name% - %ajlb_lb_statistic_mob_kills_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_mob_kills_5_alltime_name% - %ajlb_lb_statistic_mob_kills_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  NumJumps:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 148.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Times Jumped'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_jump_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_jump_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_jump_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_jump_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_jump_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_jump_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_jump_4_alltime_name% - %ajlb_lb_statistic_jump_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_jump_5_alltime_name% - %ajlb_lb_statistic_jump_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  SneakTime:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 150.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Sneak Time'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_sneak_time_1_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_sneak_time_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_sneak_time_2_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_sneak_time_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_sneak_time_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_sneak_time_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_sneak_time_4_alltime_name% - %ajlb_lb_statistic_sneak_time_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_sneak_time_5_alltime_name% - %ajlb_lb_statistic_sneak_time_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  TimeSinceDeath:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 152.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Time Since Death'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_time_since_death_1_alltime_name% <#FFFFFF>-
+      %ajlb_lb_statistic_time_since_death_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_time_since_death_2_alltime_name% <#FFFFFF>-
+      %ajlb_lb_statistic_time_since_death_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_time_since_death_3_alltime_name% <#FFFFFF>-
+      %ajlb_lb_statistic_time_since_death_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_time_since_death_4_alltime_name% - %ajlb_lb_statistic_time_since_death_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_time_since_death_5_alltime_name% - %ajlb_lb_statistic_time_since_death_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  TimeWeekly:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 154.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Time Played - Weekly'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_time_played_1_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_time_played_1_weekly_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_time_played_2_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_time_played_2_weekly_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_time_played_3_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_time_played_3_weekly_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_time_played_4_weekly_name% - %ajlb_lb_statistic_time_played_4_weekly_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_time_played_5_weekly_name% - %ajlb_lb_statistic_time_played_5_weekly_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  VillagerTrades:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 156.0
+      z: 121.5885009765625
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: PERMISSION_REQUIRED
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Traded with Villagers'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_traded_with_villager_1_alltime_name% <#FFFFFF>-
+      %ajlb_lb_statistic_traded_with_villager_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_traded_with_villager_2_alltime_name% <#FFFFFF>-
+      %ajlb_lb_statistic_traded_with_villager_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_traded_with_villager_3_alltime_name% <#FFFFFF>-
+      %ajlb_lb_statistic_traded_with_villager_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_traded_with_villager_4_alltime_name% - %ajlb_lb_statistic_traded_with_villager_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_traded_with_villager_5_alltime_name% - %ajlb_lb_statistic_traded_with_villager_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  TimePlayedAllTime:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 188.12335205078125
+      y: 158.0
       z: 121.5885009765625
       yaw: -169.29523
       pitch: 16.302904
