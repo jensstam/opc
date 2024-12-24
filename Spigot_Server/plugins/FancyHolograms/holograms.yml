@@ -20,14 +20,11 @@ holograms:
     text:
     - ''
     - '&6 Advancements Completed'
-    - '<#55FFFF> #1 %ajlb_lb_Advancements_completedAmount_1_alltime_name% <#FFFFFF>-
-      %ajlb_lb_Advancements_completedAmount_1_alltime_value% '
-    - '<#FFFF55> #2 %ajlb_lb_Advancements_completedAmount_2_alltime_name% <#FFFFFF>-
-      %ajlb_lb_Advancements_completedAmount_2_alltime_value% '
-    - '<#55FF55> #3 %ajlb_lb_Advancements_completedAmount_3_alltime_name% <#FFFFFF>-
-      %ajlb_lb_Advancements_completedAmount_3_alltime_value% '
-    - '<#AAAAAA> %ajlb_lb_Advancements_completedAmount_4_alltime_name% - %ajlb_lb_Advancements_completedAmount_4_alltime_value% '
-    - '<#AAAAAA> %ajlb_lb_Advancements_completedAmount_5_alltime_name% - %ajlb_lb_Advancements_completedAmount_5_alltime_value% '
+    - '<#55FFFF> #1 %ajlb_lb_advancements_completedAmount_1_alltime_name% <#FFFFFF>- %ajlb_lb_advancements_completedAmount_1_alltime_value% '
+    - '<#FFFF55> #2 %ajlb_lb_advancements_completedAmount_2_alltime_name% <#FFFFFF>- %ajlb_lb_advancements_completedAmount_2_alltime_value% '
+    - '<#55FF55> #3 %ajlb_lb_advancements_completedAmount_3_alltime_name% <#FFFFFF>- %ajlb_lb_advancements_completedAmount_3_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_advancements_completedAmount_4_alltime_name% - %ajlb_lb_advancements_completedAmount_4_alltime_value% '
+    - '<#AAAAAA> %ajlb_lb_advancements_completedAmount_5_alltime_name% - %ajlb_lb_advancements_completedAmount_5_alltime_value% '
     - ''
     text_shadow: true
     see_through: false
