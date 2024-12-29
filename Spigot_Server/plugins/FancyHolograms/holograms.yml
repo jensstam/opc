@@ -4,13 +4,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 130.0
-      z: 121.5885009765625
+      x: 185.411376953125
+      y: 129.25
+      z: 98.55813598632812
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -37,13 +37,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 132.0
-      z: 121.5885009765625
+      x: 223.44606018066406
+      y: 129.25
+      z: 102.76197814941406
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -67,13 +67,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 134.0
-      z: 121.5885009765625
+      x: 193.47406005859375
+      y: 129.25
+      z: 102.52161407470703
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -97,13 +97,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 136.0
-      z: 121.5885009765625
+      x: 211.46829223632812
+      y: 129.25
+      z: 98.51004028320312
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -127,13 +127,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 138.0
-      z: 121.5885009765625
+      x: 215.52499389648438
+      y: 129.25
+      z: 98.50520324707031
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -157,13 +157,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 140.0
-      z: 121.5885009765625
+      x: 189.49935913085938
+      y: 129.25
+      z: 98.51679992675781
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -187,13 +187,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 142.0
-      z: 121.5885009765625
+      x: 219.47679138183594
+      y: 129.25
+      z: 102.51510620117188
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -217,13 +217,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 144.0
-      z: 121.5885009765625
+      x: 219.47499084472656
+      y: 129.25
+      z: 98.48782348632812
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -247,13 +247,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 146.0
-      z: 121.5885009765625
+      x: 215.4538116455078
+      y: 129.25
+      z: 102.50469207763672
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -277,13 +277,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 148.0
-      z: 121.5885009765625
+      x: 189.47865295410156
+      y: 129.25
+      z: 102.51486206054688
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -307,13 +307,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 150.0
-      z: 121.5885009765625
+      x: 197.53689575195312
+      y: 129.25
+      z: 102.5755844116211
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -337,13 +337,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 152.0
-      z: 121.5885009765625
+      x: 193.56378173828125
+      y: 129.25
+      z: 98.4653091430664
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -370,13 +370,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 154.0
-      z: 121.5885009765625
+      x: 197.60543823242188
+      y: 129.25
+      z: 98.34358978271484
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -400,13 +400,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 156.0
-      z: 121.5885009765625
+      x: 211.47166442871094
+      y: 129.25
+      z: 102.48983764648438
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
@@ -433,13 +433,13 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 188.12335205078125
-      y: 158.0
-      z: 121.5885009765625
+      x: 204.4822998046875
+      y: 129.25
+      z: 99.24864196777344
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
-    visibility: PERMISSION_REQUIRED
+    visibility: ALL
     persistent: true
     scale_x: 1.0
     scale_y: 1.0
