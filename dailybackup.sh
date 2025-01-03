@@ -7,10 +7,10 @@ date
 echo "Sending stop command to tmux"
 tmux send-keys -t "$SESSION_NAME" "$STOP_COMMAND" C-m
 
-#sleep for 90 seconds to allow server to shut down
+#sleep for 120 seconds to allow server to shut down
 date
-echo "Sleep for 90 to allow server to shut down"
-sleep 90
+echo "Sleep for 120 to allow server to shut down"
+sleep 120
 
 date
 echo "Starting backup"
