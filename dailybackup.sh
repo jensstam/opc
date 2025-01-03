@@ -35,8 +35,8 @@ echo "Backup created: $BACKUP_FILE"
 
 # Remove backups older than 3 days
 date
-echo "Deleting backups older than 6 days"
-find "$BACKUP_DIR" -type f -name "*.tar.gz" -mtime +6 -delete
+echo "Deleting backups older than 4 days"
+find "$BACKUP_DIR" -type f -name "*.tar.gz" -mtime +4 -delete
 
 
 #sleep 60 before starting server
