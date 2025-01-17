@@ -33,6 +33,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   AnimalsBred:
     type: TEXT
     location:
@@ -63,6 +66,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   AviateOneCM:
     type: TEXT
     location:
@@ -93,6 +99,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   BlocksMined:
     type: TEXT
     location:
@@ -123,6 +132,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   BlocksPlaced:
     type: TEXT
     location:
@@ -153,6 +165,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   DeathNum:
     type: TEXT
     location:
@@ -183,6 +198,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   FishCaught:
     type: TEXT
     location:
@@ -213,6 +231,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   ItemsCrafted:
     type: TEXT
     location:
@@ -243,6 +264,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   MobKills:
     type: TEXT
     location:
@@ -273,6 +297,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   NumJumps:
     type: TEXT
     location:
@@ -303,6 +330,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   SneakTime:
     type: TEXT
     location:
@@ -333,6 +363,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   TimeSinceDeath:
     type: TEXT
     location:
@@ -366,6 +399,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   TimeWeekly:
     type: TEXT
     location:
@@ -396,6 +432,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   VillagerTrades:
     type: TEXT
     location:
@@ -429,6 +468,9 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   TimePlayedAllTime:
     type: TEXT
     location:
@@ -459,3 +501,6 @@ holograms:
     see_through: false
     text_alignment: center
     update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
