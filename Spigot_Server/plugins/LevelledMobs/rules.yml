@@ -141,10 +141,10 @@ presets:
       attribute-modifier:
         merge: false
         max-health: 5.0
-        movement-speed: 0.15
+        movement-speed: 0.25
         attack-damage: 2.25
         ranged-attack-damage: 1.5
-        creeper-blast-damage: 0.75
+        creeper-blast-damage: 1.0
         item-drop: 3.0
         xp-drop: 4.0
       # Special Multipliers (0.0 Min - 1.0 Max)
