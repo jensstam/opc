@@ -139,9 +139,9 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 215.52499389648438
+      x: 219.5
       y: 129.25
-      z: 98.50520324707031
+      z: 98.0
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
@@ -238,9 +238,9 @@ holograms:
     type: TEXT
     location:
       world: MCwithFriends24
-      x: 219.47499084472656
+      x: 223.5
       y: 129.25
-      z: 98.48782348632812
+      z: 98.0
       yaw: -169.29523
       pitch: 16.302904
     visibility_distance: -1
