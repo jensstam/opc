@@ -135,6 +135,39 @@ holograms:
     translation_x: 0.0
     translation_y: 0.0
     translation_z: 0.0
+  BlocksMinedWeekly:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 215.5
+      y: 129.25
+      z: 98.0
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Blocks Mined - Weekly'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_mine_block_1_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_mine_block_1_weekly_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_mine_block_2_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_mine_block_2_weekly_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_mine_block_3_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_mine_block_3_weekly_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_mine_block_4_weekly_name% - %ajlb_lb_statistic_mine_block_4_weekly_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_mine_block_5_weekly_name% - %ajlb_lb_statistic_mine_block_5_weekly_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
   BlocksPlaced:
     type: TEXT
     location:
@@ -325,6 +358,39 @@ holograms:
     - '<#55FF55> #3 %ajlb_lb_statistic_jump_3_alltime_name% <#FFFFFF>- %ajlb_lb_statistic_jump_3_alltime_value% '
     - '<#AAAAAA> %ajlb_lb_statistic_jump_4_alltime_name% - %ajlb_lb_statistic_jump_4_alltime_value% '
     - '<#AAAAAA> %ajlb_lb_statistic_jump_5_alltime_name% - %ajlb_lb_statistic_jump_5_alltime_value% '
+    - ''
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+  NumJumpsWeekly:
+    type: TEXT
+    location:
+      world: MCwithFriends24
+      x: 185.5
+      y: 129.25
+      z: 102.0
+      yaw: -169.29523
+      pitch: 16.302904
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 2.0
+    shadow_strength: 1.0
+    text:
+    - ''
+    - '&6 Times Jumped - Weekly'
+    - '<#55FFFF> #1 %ajlb_lb_statistic_jump_1_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_jump_1_weekly_value% '
+    - '<#FFFF55> #2 %ajlb_lb_statistic_jump_2_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_jump_2_weekly_value% '
+    - '<#55FF55> #3 %ajlb_lb_statistic_jump_3_weekly_name% <#FFFFFF>- %ajlb_lb_statistic_jump_3_weekly_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_jump_4_weekly_name% - %ajlb_lb_statistic_jump_4_weekly_value% '
+    - '<#AAAAAA> %ajlb_lb_statistic_jump_5_weekly_name% - %ajlb_lb_statistic_jump_5_weekly_value% '
     - ''
     text_shadow: true
     see_through: false
