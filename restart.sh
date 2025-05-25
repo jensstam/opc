@@ -59,7 +59,7 @@ fi
 # start server
 date
 echo "Starting server"
-START_COMMAND="/home/opc/Spigot_Server/start.sh"
+START_COMMAND="/home/opc/Server/start.sh"
 tmux send-keys -t "$SESSION_NAME" "$START_COMMAND" C-m
 
 

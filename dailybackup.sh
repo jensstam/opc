@@ -19,11 +19,11 @@ date
 echo "Starting backup"
 # Define source directories to be backed up
 SOURCE_DIRS=(
-    "/home/opc/Spigot_Server/MCwithFriends24"
-    "/home/opc/Spigot_Server/MCwithFriends24_nether"
-    "/home/opc/Spigot_Server/MCwithFriends24_the_end"
-    "/home/opc/Spigot_Server/server.properties"
-    "/home/opc/Spigot_Server/whitelist.json"
+    "/home/opc/Server/MCwithFriends24"
+    "/home/opc/Server/MCwithFriends24_nether"
+    "/home/opc/Server/MCwithFriends24_the_end"
+    "/home/opc/Server/server.properties"
+    "/home/opc/Server/whitelist.json"
 ) 
 
 # Define backup destination directory
@@ -45,7 +45,7 @@ echo "Backup created: $BACKUP_FILE"
 # Remove backups older than 3 days
 date
 echo "Deleting backups older than 3 days"
-find "$BACKUP_DIR" -type f -name "*.tar.gz" -mtime +3 -delete
+find "$BACKUP_DIR" -type f -name "*.tar.gz" -mtime +2 -delete
 
 
 #sleep 10 before starting server
@@ -54,7 +54,7 @@ echo "Sleep 10 before turning auto saving back on"
 sleep 10
 
 #new command to start server in tmux
-#START_COMMAND="/home/opc/Spigot_Server/start.sh"
+#START_COMMAND="/home/opc/Server/start.sh"
 START_COMMAND="save-on"
 SERVER_MESSAGE_SAVE_ON="tell @a World saving on backup complete"
 tmux send-keys -t "$SESSION_NAME" "$START_COMMAND" C-m
