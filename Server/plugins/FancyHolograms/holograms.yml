@@ -574,9 +574,9 @@ holograms:
     type: TEXT
     location:
       world: Spawn
-      x: -3.550836918396502
-      y: -58.0
-      z: 0.4852049241453072
+      x: -5.0
+      y: -59.0
+      z: 0.48520493507385254
       yaw: 85.16345
       pitch: 79.13167
     visibility_distance: -1
@@ -591,7 +591,11 @@ holograms:
     shadow_radius: 0.0
     shadow_strength: 1.0
     text:
-    - Edit this line with /hologram edit MVList
+    - ''
+    - <#55FFFF> To view a list of all available
+    - '<#55FFFF> worlds, use command:'
+    - /mv list
+    - ''
     text_shadow: false
     see_through: false
     text_alignment: center
@@ -600,9 +604,9 @@ holograms:
     type: TEXT
     location:
       world: Spawn
-      x: 4.570002595088418
-      y: -58.0
-      z: 0.47007850710635135
+      x: 5.0
+      y: -59.0
+      z: 0.4700784981250763
       yaw: 90.41321
       pitch: 28.713186
     visibility_distance: -1
@@ -617,7 +621,11 @@ holograms:
     shadow_radius: 0.0
     shadow_strength: 1.0
     text:
-    - Edit this line with /hologram edit LPGroup
+    - ''
+    - <#55FFFF> To get access to the portals have an OP
+    - '<#55FFFF> use the following command:'
+    - /lp user <user> parent add <group>
+    - ''
     text_shadow: false
     see_through: false
     text_alignment: center
@@ -626,9 +634,9 @@ holograms:
     type: TEXT
     location:
       world: Spawn
-      x: 0.3941607246386493
-      y: -58.0
-      z: 8.493426954962036
+      x: 0.3941607177257538
+      y: -59.0
+      z: 7.0
       yaw: -3.6262207
       pitch: 89.547134
     visibility_distance: -1
@@ -643,7 +651,10 @@ holograms:
     shadow_radius: 0.0
     shadow_strength: 1.0
     text:
-    - Edit this line with /hologram edit CPPZSpawnPortal
+    - ''
+    - <#FFFF55> If you are part of the <Chi Phi> group
+    - <#FFFF55> enter this portal
+    - ''
     text_shadow: false
     see_through: false
     text_alignment: center
@@ -652,9 +663,9 @@ holograms:
     type: TEXT
     location:
       world: Spawn
-      x: 0.5003831514792354
-      y: -58.0
-      z: -7.494491998416168
+      x: 0.5003831386566162
+      y: -59.0
+      z: -7.0
       yaw: 176.59131
       pitch: 88.33949
     visibility_distance: -1
@@ -669,8 +680,12 @@ holograms:
     shadow_radius: 0.0
     shadow_strength: 1.0
     text:
-    - Edit this line with /hologram edit MCWFSpawnPortal
+    - ''
+    - <#FFFF55> If you are part of the <MC with Friends> group
+    - <#FFFF55> enter this portal
+    - ''
     text_shadow: false
     see_through: false
     text_alignment: center
     update_text_interval: -1
+
