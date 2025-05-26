@@ -24,6 +24,10 @@ SOURCE_DIRS=(
     "/home/opc/Server/MCwithFriends24_the_end"
     "/home/opc/Server/server.properties"
     "/home/opc/Server/whitelist.json"
+    "/home/opc/Server/PsiZetaMC"
+    "/home/opc/Server/PsiZetaMC_nether"
+    "/home/opc/Server/PsiZetaMC_the_end"
+    "/home/opc/Server/Spawn"
 ) 
 
 # Define backup destination directory
