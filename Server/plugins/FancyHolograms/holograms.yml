@@ -570,3 +570,107 @@ holograms:
     translation_x: 0.0
     translation_y: 0.0
     translation_z: 0.0
+  MVList:
+    type: TEXT
+    location:
+      world: Spawn
+      x: -3.550836918396502
+      y: -58.0
+      z: 0.4852049241453072
+      yaw: 85.16345
+      pitch: 79.13167
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - Edit this line with /hologram edit MVList
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  LPGroup:
+    type: TEXT
+    location:
+      world: Spawn
+      x: 4.570002595088418
+      y: -58.0
+      z: 0.47007850710635135
+      yaw: 90.41321
+      pitch: 28.713186
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - Edit this line with /hologram edit LPGroup
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  CPPZSpawnPortal:
+    type: TEXT
+    location:
+      world: Spawn
+      x: 0.3941607246386493
+      y: -58.0
+      z: 8.493426954962036
+      yaw: -3.6262207
+      pitch: 89.547134
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - Edit this line with /hologram edit CPPZSpawnPortal
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+  MCWFSpawnPortal:
+    type: TEXT
+    location:
+      world: Spawn
+      x: 0.5003831514792354
+      y: -58.0
+      z: -7.494491998416168
+      yaw: 176.59131
+      pitch: 88.33949
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    translation_x: 0.0
+    translation_y: 0.0
+    translation_z: 0.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - Edit this line with /hologram edit MCWFSpawnPortal
+    text_shadow: false
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
